@@ -1,0 +1,129 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #21201E;
+  color: #FFFFFF;
+}
+
+
+main {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+#site{
+  font-size: 10px;
+}
+
+
+nav ul#menu{
+  background-color: #14130F;
+  font-size: 16px;
+  margin: 0px;
+  padding: 5px;
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+nav li{
+  display: inline;
+  line-height: 40px;
+
+}
+
+a:link, a:visited{
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #916644;
+  padding: 16px;
+  text-shadow: 1px 1px #000;
+  
+}
+
+a:hover, a:active{
+  background-color: #DE8362;
+  color: #14130F;
+  text-shadow: .2px .2px #1B8D79;}
+  
+
+.btn{
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-decoration: none;
+  background-color: #D36813;
+  color: #FFFFFF;
+  font: 20px;
+}
+
+button:hover{
+	background-color: #DE8362;
+	color: #4c504f;
+  box-shadow: 2px 1px 2px #DE8362;
+} 
+
+.atv1{
+  text-align: left;
+  position: relative;
+  
+}
+.atv2{
+  text-align: center;
+  position: relative;
+}
+.atv3{
+  text-align: right;
+  position: relative;
+}
+
+.atv4{
+  position: relative;
+  text-align: left;
+  margin-left: 110px;
+}
+.atv5{
+  text-align: right;
+  position: relative;
+  margin-right: 100px;
+  margin-left: 170px;
+}
+.atv6{
+  text-align: right;
+  position: relative;
+  margin-left: 110px;
+}
+.atv7{
+  text-align: right;
+  position: relative;
+  margin-right: 100px;
+  margin-left: 170px;
+}
+
+.atv8{
+  text-align: right;
+  position: relative;
+}
+.atv9{
+  text-align: right;
+  position: relative;
+}
+.atv10{
+  text-align: right;
+  position: relative;
+}
+
