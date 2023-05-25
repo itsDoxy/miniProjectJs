@@ -1,3 +1,4 @@
-# miniProjectjs
+# mini Project in JS
 
- a bundle of homeworks i've done so far 
+ JavaScript functions implemented w/ a css and HTML interface.
+ a bundle of homeworks made in class.
